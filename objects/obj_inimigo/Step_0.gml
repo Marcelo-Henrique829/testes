@@ -24,7 +24,7 @@ switch(estado)
 		sprite_index = spr_inimigo_hit
 		hspd = 1
 		vspd = 1
-		global.shake = 100
+		global.shake = 10
 		
 		
 	}

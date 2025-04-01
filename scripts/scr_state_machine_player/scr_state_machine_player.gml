@@ -13,7 +13,11 @@ function scr_state_machine_player(){
 			{
 				estado = "ataque"
 			}
-		
+			
+			if(global.left and global.right) hspd = 0;
+			
+			if(global.down and global.up) vspd = 0;
+			
 		
 		}
 		break;

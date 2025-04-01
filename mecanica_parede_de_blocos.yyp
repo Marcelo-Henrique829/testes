@@ -35,6 +35,7 @@
   "name":"mecanica_parede_de_blocos",
   "resources":[
     {"id":{"name":"obj_ataque","path":"objects/obj_ataque/obj_ataque.yy",},},
+    {"id":{"name":"Obj_camera","path":"objects/Obj_camera/Obj_camera.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},

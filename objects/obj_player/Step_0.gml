@@ -16,14 +16,7 @@ var _moveh = _direita - _esquerda;
 var _movev = _baixo - _cima;
 
 
-//if(_esquerda and _direita)
-//{
-//	hspd = 0;
-//}
-//if(_baixo and _cima)
-//{
-//	vspd = 0;
-//}
+
 
 scr_state_machine_player()
 
