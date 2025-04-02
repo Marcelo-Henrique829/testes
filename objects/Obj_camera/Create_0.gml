@@ -39,7 +39,7 @@ gravando = function()
 		var _cy = camera_get_view_y(view_camera[0]) //pegando o y da camera
 		
 		
-	if (b) 		a = lerp(a,_cx,0.5)
+	if (b) 		a = lerp(a,_cx,1)
 
 
 		
@@ -61,7 +61,7 @@ gravando = function()
 		
 		//comando que vai fazer a camera seguir o jogador
 		
-		show_debug_message(a)
+		show_debug_message(_cx)
 		
 		
 		
