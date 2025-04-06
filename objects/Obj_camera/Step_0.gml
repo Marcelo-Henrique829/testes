@@ -43,6 +43,8 @@ if (instance_exists(alvo)){
 		
 }
 
+
+
 show_debug_message(resolution_scale)
 
 if(keyboard_check(vk_space))
